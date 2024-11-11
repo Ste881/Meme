@@ -1,0 +1,27 @@
+html
+{
+  background-color: black;
+}
+
+#Gojo
+{
+  margin-left: 43%;
+  margin-top: 8%;
+}
+
+#Caption
+{
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-align:justify;
+  margin-left: 30%;
+  margin-top: 2%;
+}
+
+#para
+{
+  color: white;
+  font-size: large;
+  margin-left: 36%;
+  margin-top: 1%;
+}
